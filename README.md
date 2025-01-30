@@ -1,1 +1,1 @@
-![alt text](https://github.com/kymaniw/Q1-Sales-Analysis/blob/main/P1%20Visuals%20SA.pdf)
+![alt tag](https://github.com/user-attachments/files/18608407/P1.Visuals.SA.pdf)
