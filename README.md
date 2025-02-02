@@ -1,1 +1,2 @@
-[P1 Visuals SA.pdf](https://github.com/user-attachments/files/18633378/P1.Visuals.SA.pdf)
+
+![Power BI PNG file](https://github.com/user-attachments/assets/63172b6f-fa39-40dc-beb2-bab004c42f0c)
