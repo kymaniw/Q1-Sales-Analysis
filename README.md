@@ -1,1 +1,2 @@
-[P1 Visuals SA.pdf](https://github.com/user-attachments/files/18608571/P1.Visuals.SA.pdf)
+![Sales Analysis Dashboard](![image](https://github.com/user-attachments/assets/403986e2-18f9-477c-836b-cb6ac1d04ea1)
+)
