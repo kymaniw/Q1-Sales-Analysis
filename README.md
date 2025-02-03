@@ -5,4 +5,6 @@
 
 <h6>Main Insights</h6>:
 
-Discovered an absurdly low gross profit margin for the quarter at a staggering 4.6%!
+Discovered an absurdly low gross profit margin for the quarter at a staggering 4.6%
+
+In regards to customer behavior and business performance, I found that 22.7% of transactions generate revenue above $500, and  16.6% of transactions received a high customer satisfaction rating. This concludes why the average customer rating for the quarter was so low at 6.97%.
