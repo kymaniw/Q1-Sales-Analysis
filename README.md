@@ -5,9 +5,9 @@
 
 <h6>Main Insights:</h6>
 
-Discovered an absurdly low gross profit margin for the quarter at a staggering 4.6%
+Discovered an absurdly low gross profit margin for the quarter at a staggering <h5>4.6%</h5>
 
-In regards to customer behavior and business performance, I found that 22.7% of transactions generate revenue above $500, and  16.6% of transactions received a high customer satisfaction rating. This concludes why the average customer rating for the quarter was so low at 6.97%.
+In regards to customer behavior and business performance, I found that <h5>22.7%</h5> of transactions generate revenue above <h5>$500</h5>, and  <h5>16.6%</h5> of transactions received a high customer satisfaction rating. This concludes why the average customer rating for the quarter was so low at <h5>6.97%</h5>.
 
 Found that cash is the leading form of payment. This indicates missed opportunities for upselling or cross-selling high-value items as well as limited customer retention.
 
